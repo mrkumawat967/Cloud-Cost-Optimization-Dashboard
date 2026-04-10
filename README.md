@@ -137,3 +137,4 @@ Azure-Cloud-Cost-Optimization-Dashboard/
 
 ### 🔹 Dashboard
 ![Dashboard](screenshots/dashboard.png)
+#### Contributors: ```Rishit Kumar```
