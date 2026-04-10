@@ -121,7 +121,7 @@ Azure-Cloud-Cost-Optimization-Dashboard/
 ## 📸 Project Screenshots
 
 ### 🔹 VM Instance Running
-![VM](screenshots/vm-instance-running.png)
+![VM](screenshots/vm-running.png)
 
 ### 🔹 Blob Storage Container
 ![Blob](screenshots/blob-storage-container.png)
@@ -130,10 +130,10 @@ Azure-Cloud-Cost-Optimization-Dashboard/
 ![Overview](screenshots/cost-analysis-overview.png)
 
 ### 🔹 Budget Configuration
-![Budget](screenshots/budget-configuration.png)
+![Budget](screenshots/budget-config.png)
 
 ### 🔹 Cost Analysis
 ![Cost](screenshots/cost-analysis.png)
 
 ### 🔹 Dashboard
-![Dashboard](screenshots/dashboard-powerbi.png)
+![Dashboard](screenshots/dashboard.png)
