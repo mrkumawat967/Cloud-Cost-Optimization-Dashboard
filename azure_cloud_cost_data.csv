@@ -1,0 +1,16 @@
+Date,Service,Region,Environment,Resource,Cost,UsageHours,Budget,OptimizationTip
+2026-03-01,Virtual Machines,East US,Production,VM-App-01,45,120,500,Resize underutilized VM
+2026-03-02,Azure Storage,West Europe,Development,Storage-Dev-01,12,0,500,Move infrequent data to cool tier
+2026-03-03,SQL Database,Central US,Production,SQL-Prod-01,38,24,500,Use reserved capacity for SQL
+2026-03-04,App Service,East US,Development,AppSvc-Dev-01,18,48,500,Scale down unused App Service plan
+2026-03-05,Azure Functions,West Europe,Analytics,Func-Analytics-01,9,15,500,Review execution frequency
+2026-03-06,Virtual Machines,Central US,Production,VM-DB-01,52,140,500,Enable auto-shutdown for idle periods
+2026-03-07,Azure Storage,East US,Analytics,Storage-Analytics-01,15,0,500,Delete unused snapshots
+2026-03-08,SQL Database,West Europe,Production,SQL-Report-01,41,26,500,Optimize DTU/vCore sizing
+2026-03-09,App Service,Central US,Development,AppSvc-Test-01,16,40,500,Consolidate low-traffic apps
+2026-03-10,Azure Functions,East US,Analytics,Func-ETL-01,11,18,500,Reduce unnecessary trigger frequency
+2026-03-11,Virtual Machines,West Europe,Production,VM-Web-02,49,132,500,Use reserved instances
+2026-03-12,Azure Storage,Central US,Development,Storage-Backup-01,14,0,500,Apply lifecycle management policy
+2026-03-13,SQL Database,East US,Production,SQL-Core-01,43,28,500,Pause non-critical replicas when idle
+2026-03-14,App Service,West Europe,Analytics,AppSvc-API-01,17,36,500,Scale based on usage patterns
+2026-03-15,Azure Functions,Central US,Development,Func-Test-02,10,14,500,Monitor low-value executions
